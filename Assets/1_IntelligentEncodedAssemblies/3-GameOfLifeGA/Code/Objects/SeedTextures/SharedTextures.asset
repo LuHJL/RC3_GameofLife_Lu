@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c1b1e68d284eaa4296335d07bcec44e, type: 3}
+  m_Name: SharedTextures
+  m_EditorClassIdentifier: 
+  _items:
+  - {fileID: 2800000, guid: 7964c7080530c1b4db1b29fe68527879, type: 3}
+  - {fileID: 2800000, guid: 7964c7080530c1b4db1b29fe68527879, type: 3}
+  - {fileID: 2800000, guid: 76aabd6ad5b410244902af684b99a324, type: 3}
+  - {fileID: 2800000, guid: 76aabd6ad5b410244902af684b99a324, type: 3}

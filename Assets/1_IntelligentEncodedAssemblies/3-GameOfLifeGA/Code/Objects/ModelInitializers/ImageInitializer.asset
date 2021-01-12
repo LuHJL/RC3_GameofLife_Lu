@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf157c4e75cce0847bff2b33a614fd8b, type: 3}
+  m_Name: ImageInitializer
+  m_EditorClassIdentifier: 
+  _texture: {fileID: 2800000, guid: 47c501c7e7c26c646ac223b1a0132ed4, type: 3}
+  _threshold: 0.99
